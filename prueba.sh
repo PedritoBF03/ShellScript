@@ -1,7 +1,9 @@
-#!/bin/bash
-echo "Ejecución de prueba.sh despues de un push local"
+echo "Bienvenido Jenkins por facilitarnos la vida"
 
-for i in {5 .. 100}
-do
-    echo "Welcome $i timesdfgdfg"
-done
+#!/bin/bash
+# echo "Ejecución de prueba.sh despues de un push local"
+
+# for i in {5 .. 100}
+# do
+#     echo "Welcome $i timesdfgdfg"
+# done
